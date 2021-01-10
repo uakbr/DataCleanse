@@ -5,8 +5,6 @@
 Ever wanted to replay logs to test certain in an ingestion pipeline or to load test a pipeline/SIEM? 
 LogCannon allows you to get BOTSv1 data (https://github.com/splunk/botsv1), clean it and replay it with current time stamps at a pace that you want.
 
-Disclaimer: I am a bad Python developer, so review code at your own peril!
-
 ## Supported Logs
 
 * iis (use snipSize of 19)
